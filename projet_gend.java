@@ -45,17 +45,17 @@ public class projet_gend extends JFrame {
         List<String> hostnames = new ArrayList<>();
 
         if ("Jouan".equals(caserne)) {
-            ipAddresses.add("33.87.X.X");
-            ipAddresses.add("33.87.X.X");
-            ipAddresses.add("33.87.X.X");
-            ipAddresses.add("33.87.X.X");
-            ipAddresses.add("33.87.X.X");
-            ipAddresses.add("33.87.X.X");
-            ipAddresses.add("33.87.X.X");
-            ipAddresses.add("33.87.X.X");
-            ipAddresses.add("33.87.X.X");
-            ipAddresses.add("33.87.X.X");
-            ipAddresses.add("33.87.X.X");
+            ipAddresses.add("33.X.X.X");
+            ipAddresses.add("33.X.X.X");
+            ipAddresses.add("33.X.X.X");
+            ipAddresses.add("33.X.X.X");
+            ipAddresses.add("33.X.X.X");
+            ipAddresses.add("33.X.X.X");
+            ipAddresses.add("33.X.X.X");
+            ipAddresses.add("33.X.X.X");
+            ipAddresses.add("33.X.X.X");
+            ipAddresses.add("33.X.X.X");
+            ipAddresses.add("33.X.X.X");
             
             hostnames.add("GGD087ER000001");
             hostnames.add("GGD087ER000002");
@@ -71,20 +71,20 @@ public class projet_gend extends JFrame {
 
 
         } else if ("Jourdan".equals(caserne)) {
-            ipAddresses.add("33.87.X.X");
-            ipAddresses.add("33.87.X.X");
-            ipAddresses.add("33.87.X.X");
-            ipAddresses.add("33.87.X.X");
-            ipAddresses.add("33.87.X.X");
-            ipAddresses.add("33.87.X.X");
-            ipAddresses.add("33.87.X.X");
-            ipAddresses.add("33.87.X.X");
-            ipAddresses.add("33.87.X.X");
-            ipAddresses.add("33.87.X.X");
-            ipAddresses.add("33.87.X.X");
             ipAddresses.add("1.1.1.1");
             ipAddresses.add("8.8.8.8");
             ipAddresses.add("9.9.9.9");
+            ipAddresses.add("33.X.X.X");
+            ipAddresses.add("33.X.X.X");
+            ipAddresses.add("33.X.X.X");
+            ipAddresses.add("33.X.X.X");
+            ipAddresses.add("33.X.X.X");
+            ipAddresses.add("33.X.X.X");
+            ipAddresses.add("33.X.X.X");
+            ipAddresses.add("33.X.X.X");
+            ipAddresses.add("33.X.X.X");
+            ipAddresses.add("33.X.X.X");
+            ipAddresses.add("33.X.X.X");
             
             hostnames.add("GGD087ER000101");
             hostnames.add("GGD087ER000121");
